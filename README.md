@@ -1,3 +1,6 @@
+# Goal
+The goal of this project is to obtain root privilege on a 32-bit Linux system by exploiting vulnerabilities in installed programs.
+
 # Reports
 
 ## Victim 1
